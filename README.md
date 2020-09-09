@@ -3,6 +3,7 @@
 _created by Austin Poor_
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/a-poor/bayesian-bandit/master?filepath=bayes-bandit.ipynb&urlpath=lab)
+[![NBViewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.jupyter.org/github/a-poor/bayesian-bandit/blob/master/bayes-bandit.ipynb#)
 
 Using [`pystan`](https://mc-stan.org/) to approach a simplified version of the [multi-armed bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit), where the goal is to use bayesian modeling to predict the probability of success for an unknown process.
 
