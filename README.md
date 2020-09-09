@@ -2,7 +2,7 @@
 
 _created by Austin Poor_
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/a-poor/bayesian-bandit/master?filepath=bayes-bandit.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/a-poor/bayesian-bandit/master?filepath=bayes-bandit.ipynb&urlpath=lab)
 
 Using [`pystan`](https://mc-stan.org/) to approach a simplified version of the [multi-armed bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit), where the goal is to use bayesian modeling to predict the probability of success for an unknown process.
 
@@ -13,7 +13,7 @@ The notebook [bayes-bandit.ipynb](./bayes-bandit.ipynb) has the analysis code an
 
 ### Binder
 
-To run the notebook using Binder, click the badge above or use [this link](https://mybinder.org/v2/gh/a-poor/bayesian-bandit/master?filepath=bayes-bandit.ipynb). 
+To run the notebook using Binder, click the badge above or use [this link](https://mybinder.org/v2/gh/a-poor/bayesian-bandit/master?filepath=bayes-bandit.ipynb&urlpath=lab). 
 
 ### Docker
 
